@@ -22,6 +22,7 @@ const qualcosa = "Davide" //indica un tipo di dato CONSTANTE, non può variare n
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
 let myName = "Davide"
+
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
@@ -43,8 +44,7 @@ let x = 12
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
 myName = "Prelati"
-//const myName="Davide" significa che non può essere modificata, perciò se provassi a modificarla mi darebbe
-//errore in console
+//const myName="Davide" significa che non può essere modificata, perciò se provassi a modificarla mi darebbe errore in console
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
